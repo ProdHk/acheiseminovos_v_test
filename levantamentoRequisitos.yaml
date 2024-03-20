@@ -1,0 +1,181 @@
+
+Funcionalidades:
+
+  - Cadastro de Usuários: []
+    - Permite que os usuários se cadastrem no aplicativo, fornecendo informações básicas como nome, email, senha, etc.
+
+  - Autenticação de Usuários: []
+    - Processo de autenticação para verificar as credenciais dos usuários durante o login.
+
+  - Gestão de Usuários: []
+    - Funcionalidade administrativa para gerenciar usuários, incluindo visualização, edição, e exclusão de contas.
+
+  - Cadastro de Produtos: []
+    - Permite que os usuários cadastrem novos produtos para venda no aplicativo, incluindo detalhes como título, descrição, preço, imagens, etc.
+
+  - Gestão de Produtos: []
+    - Funcionalidade administrativa para gerenciar produtos cadastrados, incluindo visualização, edição e exclusão de produtos.
+
+  - Filtro de Produtos: []
+    - Permite que os usuários filtrem os produtos com base em critérios específicos, como categoria, preço, marca, etc.
+
+  - Assinaturas: []
+    - Permite que os usuários assinem planos ou pacotes de serviços dentro do aplicativo.
+
+  - Validação do Plano Assinado: []
+    - Verifica se o plano assinado pelos usuários está ativo e válido.
+
+  - Gateway de Pagamento: []
+    - Integração com um serviço de gateway de pagamento para processar transações financeiras.
+
+  - Cobrança: []
+    - Funcionalidade para cobrar os usuários pelos produtos adquiridos ou serviços utilizados.
+
+  - Contato: []
+    - Formulário ou funcionalidade para os usuários entrarem em contato com a equipe de suporte do aplicativo.
+
+  - Upload de Arquivos: []
+    - Permite que os usuários façam upload de imagens ou documentos, por exemplo, para adicionar fotos de produtos.
+
+  - Favoritar: []
+    - Funcionalidade que permite aos usuários marcar produtos como favoritos para fácil acesso posterior.
+
+  - Relacionar Produtos: []
+    - Funcionalidade que permite relacionar produtos semelhantes ou complementares entre si.
+
+  - Popularidade de Anúncios: []
+    - Métrica que mostra a popularidade dos anúncios com base em interações dos usuários, visualizações, etc.
+
+  - Comparar o Valor Vendido com a Tabela FIPE: []
+    - Funcionalidade que compara o valor dos veículos vendidos no aplicativo com os valores da Tabela FIPE para referência de mercado.
+
+Páginas: 
+
+  - Login: []
+    - Página de entrada para os usuários se autenticarem no aplicativo.
+
+  - Usuário: []
+    - Página principal para os usuários, com acesso às funcionalidades relacionadas à compra, venda e gerenciamento de conta.
+
+  - Admin: []
+    - Página administrativa para os administradores do aplicativo, com acesso a funcionalidades de gerenciamento e controle.
+
+Funcionalidades Adicionais: 
+
+  - Sistema de Avaliações e Comentários: []
+    - Permite que os usuários deixem avaliações e comentários sobre os produtos, fornecendo feedback para outros usuários.
+
+  - Chat Online: []
+    - Funcionalidade de chat em tempo real que permite aos usuários se comunicarem diretamente dentro do aplicativo.
+
+  - Notificações Push: []
+    - Envio de notificações push para informar os usuários sobre novos produtos, mensagens, atualizações de status de pedidos, etc.
+
+  - Localização Geográfica: []
+    - Integração com serviços de localização para ajudar os usuários a encontrar produtos próximos a eles.
+
+  - Sistema de Recomendação: []
+    - Utilização de algoritmos de recomendação para sugerir produtos com base no histórico de navegação e compras dos usuários.
+
+  - Integração com Redes Sociais: []
+    - Permite que os usuários compartilhem produtos e experiências de compra nas redes sociais, aumentando a visibilidade do aplicativo.
+
+  - Gerenciamento de Carrinho de Compras: []
+    - Funcionalidade que permite aos usuários adicionar produtos ao carrinho, revisar e editar itens antes de efetuar a compra.
+
+  - Histórico de Compras: []
+    - Seção onde os usuários podem visualizar um histórico de suas compras anteriores e acompanhar o status dos pedidos.
+
+  - FAQ (Perguntas Frequentes): []
+    - Página com respostas para perguntas frequentes dos usuários, ajudando a reduzir o volume de consultas de suporte.
+
+Funcionalidades Úteis: 
+
+  - Gerenciamento de Estoque: []
+    - Sistema que monitora o estoque de produtos disponíveis e atualiza automaticamente as listagens conforme as vendas são realizadas.
+
+  - Sistema de Ofertas e Descontos: []
+    - Funcionalidade que permite a criação de ofertas especiais e descontos para produtos selecionados.
+
+  - Integração com Múltiplos Métodos de Pagamento: []
+    - Suporte para diversos métodos de pagamento, como cartão de crédito, boleto bancário, transferência bancária, entre outros.
+
+  - Análise de Dados e Relatórios: []
+    - Ferramenta para análise de dados sobre o desempenho do aplicativo, incluindo vendas, comportamento do usuário, e tendências de mercado.
+
+  - Suporte Multilíngue: []
+    - Possibilidade de oferecer o aplicativo em múltiplos idiomas para atender a uma base de usuários mais diversificada.
+
+  - Segurança Reforçada: []
+    - Implementação de medidas de segurança avançadas para proteger os dados dos usuários e evitar fraudes ou ataques cibernéticos.
+
+  - Feedback Instantâneo: []
+    - Funcionalidade que permite aos usuários fornecer feedback instantâneo sobre a experiência do aplicativo, facilitando a identificação de áreas de melhoria.
+
+Páginas Adicionais: 
+
+  - Perfil do Usuário: []
+    - Página onde os usuários podem visualizar e editar suas informações pessoais, histórico de compras, favoritos, etc.
+
+  - Detalhes do Produto: []
+    - Página dedicada a mostrar informações detalhadas sobre um produto específico, incluindo descrição, imagens, avaliações, etc.
+
+  - Carrinho de Compras: []
+    - Página onde os usuários podem visualizar e editar os itens no carrinho de compras antes de efetuar o pagamento.
+
+  - Página de Pagamento: []
+    - Página onde os usuários inserem informações de pagamento e concluem a transação de compra.
+
+  - Página de Suporte: []
+    - Página dedicada a fornecer informações de suporte, como FAQ, informações de contato e chat de suporte online.
+
+  - Página de FAQ (Perguntas Frequentes): []
+    - Página específica com respostas para perguntas frequentes dos usuários sobre o aplicativo, produtos, políticas de compra, etc.
+
+  - Página de Ofertas e Descontos: []
+    - Página onde os usuários podem encontrar ofertas especiais e descontos em produtos selecionados.
+
+  - Página de Avaliações e Comentários: []
+    - Página onde os usuários podem ler e deixar avaliações e comentários sobre produtos comprados.
+
+Funcionalidades Adicionais por Página:
+
+  - Perfil do Usuário: []
+    - Edição de informações de perfil
+    - Visualização do histórico de compras
+    - Gerenciamento de favoritos
+
+  - Detalhes do Produto: []
+    - Botão para adicionar o produto ao carrinho de compras
+    - Seção para avaliações e comentários de outros usuários
+    - Botões para compartilhar o produto nas redes sociais
+
+  - Carrinho de Compras: []
+    - Lista de itens no carrinho com opções para remover ou atualizar quantidades
+    - Cálculo automático do total da compra
+    - Opção para aplicar códigos de desconto
+
+  - Página de Pagamento: []
+    - Formulário para inserir informações de pagamento
+    - Seleção de método de envio e endereço de entrega
+    - Resumo da compra antes da finalização
+
+  - Página de Suporte: []
+    - Formulário de contato para enviar mensagens à equipe de suporte
+    - Chat de suporte online para assistência em tempo real
+    - Links úteis para recursos de autoatendimento
+
+  - Página de FAQ: []
+    - Listagem de perguntas frequentes com respostas detalhadas
+    - Barra de pesquisa para encontrar rapidamente tópicos específicos
+    - Opção para enviar novas perguntas para inclusão na página
+
+  - Página de Ofertas e Descontos: []
+    - Destaque para ofertas especiais e descontos em produtos selecionados
+    - Seção para exibir códigos de cupom promocionais
+    - Botões para compartilhar ofertas nas redes sociais
+
+  - Página de Avaliações e Comentários: []
+    - Exibição de avaliações e comentários de outros usuários sobre produtos
+    - Possibilidade de deixar avaliações e comentários próprios
+    - Classificação por estrelas para facilitar a visualização das avaliações mais relevantes
